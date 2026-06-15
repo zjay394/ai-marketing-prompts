@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1000+ ChatGPT Prompts for Online Marketing</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-color: #10b981; /* High converting green */
+            --accent-hover: #059669;
+            --btn-text: #ffffff;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 550px;
+            width: 100%;
+            background: var(--card-bg);
+            border-radius: 24px;
+            padding: 40px 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .badge {
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--accent-color);
+            padding: 6px 16px;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            display: inline-block;
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 15px;
+            background: linear-gradient(to right, #ffffff, #cbd5e1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.05rem;
+            margin-bottom: 30px;
+        }
+
+        /* Mockup / Visual Section */
+        .product-preview {
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 30px;
+            border: 1px dashed rgba(255, 255, 255, 0.1);
+            position: relative;
+        }
+
+        .product-preview img {
+            max-width: 140px;
+            height: auto;
+            filter: drop-shadow(0px 10px 20px rgba(0,0,0,0.5));
+        }
+
+        /* Feature list for psychological conversions */
+        .features {
+            text-align: left;
+            margin-bottom: 35px;
+            background: rgba(0, 0, 0, 0.15);
+            padding: 20px;
+            border-radius: 14px;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            font-size: 0.95rem;
+            color: #e2e8f0;
+        }
+
+        .feature-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .feature-icon {
+            color: var(--accent-color);
+            margin-right: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        /* High-Converting CTA Button */
+        .cta-button {
+            display: block;
+            background: var(--accent-color);
+            color: var(--btn-text);
+            text-decoration: none;
+            padding: 18px 30px;
+            border-radius: 14px;
+            font-size: 1.15rem;
+            font-weight: 700;
+            box-shadow: 0 10px 25px rgba(16, 185, 129, 0.3);
+            transition: all 0.2s ease-in-out;
+            letter-spacing: 0.2px;
+        }
+
+        .cta-button:hover {
+            background: var(--accent-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 12px 30px rgba(16, 185, 129, 0.4);
+        }
+
+        .cta-button:active {
+            transform: translateY(0);
+        }
+
+        .footer-note {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-top: 20px;
+        }
+
+        /* Mobile Optimization */
+        @media (max-width: 480px) {
+            .container {
+                padding: 30px 20px;
+            }
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="badge">🔥 Verified AI Toolkit</div>
+
+        <h1>Unlock 1,000+ ChatGPT Prompts To Automate Your Marketing</h1>
+        
+        <p class="subtitle">Stop staring at a blank screen. Copy & paste field-tested AI prompts to instantly create viral content, email campaigns, and high-converting sales copy.</p>
+
+        <div class="product-preview">
+            <svg width="80" height="80" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-bottom: 10px;">
+                <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="#10B981" fill-opacity="0.15"/>
+                <path d="M12 16V12M12 8H12.01M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <p style="font-weight: 600; color: #ffffff;">The Ultimate Marketing Workbook</p>
+            <p style="font-size: 0.85rem; color: var(--text-muted);">Instant Digital Download Included</p>
+        </div>
+
+        <div class="features">
+            <div class="feature-item">
+                <span class="feature-icon">✓</span> Expert strategies for social media & email campaigns
+            </div>
+            <div class="feature-item">
+                <span class="feature-icon">✓</span> Streamline your online business to save hours daily
+            </div>
+            <div class="feature-item">
+                <span class="feature-icon">✓</span> Designed by marketing pros to maximize conversions
+            </div>
+        </div>
+
+        <a href="https://heikoboos.com/1000-chatgpt-prompts-for-online-marketing/#aff=jolamukndelemaca6f" class="cta-button" target="_blank" rel="noopener noreferrer">
+            Get Instant Access Now ➔
+        </a>
+
+        <p class="footer-note">Secure checkout handled via Digistore24.</p>
+    </div>
+
+</body>
+</html>
